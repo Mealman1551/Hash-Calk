@@ -1,4 +1,4 @@
-# Project Title
+# Hash Calk
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mealman1551/Hash-Calk)
 ![GitHub issues](https://img.shields.io/github/issues/Mealman1551/Hash-Calk)
