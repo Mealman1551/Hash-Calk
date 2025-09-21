@@ -4,6 +4,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/Mealman1551/Hash-Calk)
 ![GitHub stars](https://img.shields.io/github/stars/Mealman1551/Hash-Calk?style=social)
 <!-- ![GitHub license](https://img.shields.io/github/license/Mealman1551/Hash-Calk) -->
+[![License](https://img.shields.io/badge/Licensed%20under:-LNL%20v1.1-blue?style=plastic)](https://librenova-foundation.github.io/lnl.html)
+
 
 > [!Note]
 > Hash Calk will be made open source
@@ -23,8 +25,8 @@ This software let you check hashes from every file, these algorithms are support
 - sha3_512
 - blake2s
 - blake2b
-- shake_128
-- shake_256
+- shake_128 (both 32 as 64)
+- shake_256 (both 32 as 64)
 
 Please note that this is for Windows only, as Linux and MacOS have also the `hash` command but that does something else then this tool. 
 
@@ -43,7 +45,7 @@ hash
 ```
 
 ## License
-This project is licensed under my own All Rights Reserved license, this means it's proprietary.
+This project is licensed under the [LNL license](LICENSE)
 
 ## Download
 [![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/Mealman1551/Hash-Calk/releases/latest)
