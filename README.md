@@ -5,6 +5,10 @@
 ![GitHub stars](https://img.shields.io/github/stars/Mealman1551/Hash-Calk?style=social)
 <!-- ![GitHub license](https://img.shields.io/github/license/Mealman1551/Hash-Calk) -->
 
+> [!Note]
+> Hash Calk will be made open source
+
+
 ## Description
 This software let you check hashes from every file, these algorithms are supported:
 - md5
@@ -26,7 +30,7 @@ Please note that this is for Windows only, as Linux and MacOS have also the `has
 
 ## Features
 - Fast hashing
-- Commandline interfeace (CLI)
+- Commandline interface (CLI)
 - Major support for many algorithms
 
 ## Installation
@@ -47,5 +51,5 @@ This project is licensed under my own All Rights Reserved license, this means it
 sha256: `3882ebe9afabdb51bce1985f0af4ca6ead0b495d95f927bddf84cf1b338c8801`
 
 ---
-###### &copy; Mealman1551
+###### &copy; 2025 Mealman1551
 
