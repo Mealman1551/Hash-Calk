@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/Licensed%20under:-LNL%20v1.1-blue?style=plastic)](https://librenova-foundation.github.io/lnl.html)
 
 
-> [!hee hee]
+> [!Note]
 > Hash Calk ~~will be made~~ **is now** open source
 
 
