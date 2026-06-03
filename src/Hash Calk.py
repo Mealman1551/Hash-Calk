@@ -97,4 +97,3 @@ finally:
 	print("")
 	print("_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_")
 	print("")
-	print("Hash Calk - End of Program")
