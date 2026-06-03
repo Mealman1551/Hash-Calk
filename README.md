@@ -6,11 +6,6 @@
 <!-- ![GitHub license](https://img.shields.io/github/license/Mealman1551/Hash-Calk) -->
 [![License](https://img.shields.io/badge/Licensed%20under:-LNL%20v1.1-blue?style=plastic)](https://librenova-foundation.github.io/lnl.html)
 
-
-> [!Note]
-> Hash Calk ~~will be made~~ **is now** open source
-
-
 ## Description
 This software let you check hashes from every file, these algorithms are supported:
 - md5
@@ -50,8 +45,5 @@ This project is licensed under the [LNL license](LICENSE)
 ## Download
 [![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/Mealman1551/Hash-Calk/releases/latest)
 
-sha256: `3882ebe9afabdb51bce1985f0af4ca6ead0b495d95f927bddf84cf1b338c8801`
-
 ---
-###### &copy; 2025 Mealman1551
-
+###### &copy; 2026 Mealman1551
